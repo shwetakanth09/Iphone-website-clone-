@@ -1,13 +1,13 @@
-🍏 iPhone Website Clone
+ Apple iPhone Website Clone
 
-A pixel-perfect clone of Apple’s official iPhone website built using HTML, CSS, and JavaScript. This is a frontend-only project designed for practice and demonstration.
+A pixel-perfect clone of Apple's official iPhone website built using React, Three.js, GSAP, and Tailwind CSS. This is a frontend-only project featuring 3D model rendering, scroll-based animations, and responsive design.
 
-🚀 Live Demo
+Live Demo
 
 Check it out live here:
 https://vercel.com/lightyagami2599s-projects/iphone-website-clone/48am6Gu3wD6Z9jSFhrd5Z5TSgkzY
 
-🌟 Features
+Features
 
 Responsive design (desktop, tablet, mobile)
 
@@ -17,23 +17,27 @@ Navigation bar, hero section, product showcase, footer, etc.
 
 Clean layout and styling close to the original site
 
-🛠️ Technologies Used
+Technologies Used
 Technology	Role
-HTML5	Structure and content
-CSS3	Layout, responsiveness, styling
-JavaScript	Interactivity (if used)
-📁 Installation / Local Preview
+React	Frontend framework
+Three.js / React Three Fiber	3D model rendering
+GSAP	Scroll-based animations
+Tailwind CSS	Styling and responsiveness
+Vite	Build tool and dev server
+
+Installation / Local Preview
 
 To run locally:
 
 git clone https://github.com/lightyagami2599/Iphone-website-clone-.git
 cd Iphone-website-clone-
-# open index.html in your browser
+npm install
+npm run dev
 
 
-No backend required—it’s purely frontend.
+No backend required—it's purely frontend.
 
-🎨 Contributing
+Contributing
 
 Fork the repository
 
